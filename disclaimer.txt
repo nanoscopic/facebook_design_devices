@@ -1,0 +1,22 @@
+The contents of this repo was sourced from https://design.facebook.com/toolsandresources/devices/
+
+---
+
+The only notice of usage rights is a disclaimer at https://design.facebook.com/resources-disclaimer:
+
+Disclaimer
+
+The third party designs appearing on this website are the intellectual property of their respective owners. While Facebook has redrawn third party designs and shares these assets for the benefit of the design community, Facebook does not own the underlying product or user interface designs. By accessing these third party design assets, you agree to obtain all necessary permissions from the underlying rights holders and/or adhere to any applicable brand use guidelines before using them. Facebook disclaims all express or implied warranties with respect to these assets, including non-infringement of intellectual property rights. Facebook is the exclusive owner of the intellectual property of Facebook-owned hardware such as Portal and Oculus.
+
+---
+
+As user of this repo, this disclaimer also applies to you.
+
+--
+
+The site contains the following text:
+"Please do not repackage and redistribute these as your own."
+
+We make no claims to these designs being our own, hence all the above references.
+
+If Facebook should have an issue with this repo, contact us and we will promptly remove this repo.
